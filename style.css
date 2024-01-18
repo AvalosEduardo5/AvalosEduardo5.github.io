@@ -7,6 +7,7 @@ html, body {
   nav{
     background-color:#325585;
     width:100%;  
+    position:fixed;
   }
   
   .navbar-brand p{
