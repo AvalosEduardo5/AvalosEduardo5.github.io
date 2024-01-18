@@ -1,0 +1,199 @@
+html, body {
+    height: 100%;
+    width: auto;
+    background-color:#a5b5cc;
+  }
+  
+  nav{
+    background-color:#325585;
+    width:100%;  
+  }
+  
+  .navbar-brand p{
+  display: inline;
+  padding-left:10px;
+  font-weight: 500;
+  color: black;
+  }
+  
+  .nav-link a{
+    color: white;
+  }
+  
+  .nav-link {
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  
+  section{
+    background-color: #a5b5cc;
+  } 
+  
+  section#hero{
+    height:40vmax;
+    width:auto;
+    border: 1px solid black;
+    background-image:
+    linear-gradient(rgba(0,0,0,.1), rgba(0,0,0,.7)),  url("https://images.unsplash.com/photo-1543372742-e08542e25f8b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1017&q=80");
+    background-repeat: no-repeat, no-repeat;
+    background-position: center, center;
+    background-size:cover, cover;
+  }
+  
+  #hero img{
+    position:sticky;
+    width:13vw;
+    height:auto;
+    margin-left:43.5%;
+    margin-right:0%;
+    margin-top:14.5%;
+    border: 0px solid black;
+    border-radius:50%;
+  }
+  
+  #hero h1{
+    color: white;
+    text-align: center;
+    margin-top:5px;
+    font-family:'Arya', sans-serif;
+    font-size: 5vh;
+  }
+  
+  #hero h3{
+    color:white;
+    text-align: center;
+    font-family:'Arya', sans-serif;
+    font-size: 3vh;
+  }
+  
+  #inspiration{
+    padding-top:5vmax;
+  }
+  
+  #inspiration h1{
+    text-align: center;
+    padding-bottom:8px;
+    padding-top:3vmax;
+    font-family:'Alatsi', sans-serif;
+    font-size: 3vmax;
+  }
+  
+  .carousel-inner img{
+    width:60vw;
+    margin: auto;
+    height: 36vmax;
+  }
+  
+  .carousel-caption{
+    width: 60vw;
+    margin: 0 auto;
+    height: 13vh;
+    background-image:linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.9));
+    margin-bottom:-18px;
+    position:relative;
+  }
+  
+  .carousel-caption p{
+    color:white;
+    font-weight: bold;
+    font-size:12px;
+    margin:0 auto;
+    width:auto;
+    position:relative;
+    display:block;
+  }
+  
+  #mission{
+    height:50vmax;
+    background-color: #a5b5cc;
+    width:100%;
+    padding-top:2vmax;
+    padding-bottom:15vh;
+  }
+  
+  #mission img{
+    width:41vw;
+    height:24vmax;
+    border: solid black 0px;
+    border-radius: 2%;
+  }
+  
+  #mission p{
+    font-size:1.2vmax;
+    font-family: 'Helvetica', sans-serif;
+    padding-top:6vmax;
+    text-align: center;
+  }
+  
+  #mission h1{
+    font-family:'Alatsi', sans-serif;
+    font-size: 3vmax;
+  }
+  
+  #skills {
+    background-color: #a5b5cc;
+    width:100%;
+    padding-top:2.5vmax;
+  }
+  
+  #skills h1{
+    font-family:'Alatsi', sans-serif;
+    padding-bottom:5vmax;
+    font-size: 3vmax;
+  }
+  
+  #skills p{
+    font-family: 'Helvetica', sans-serif;
+    font-size:2vmin;
+    padding-top:1vmax;
+    
+  }
+  
+  #skills img{
+    height:20vmin;
+    width:25vmin;
+  }
+  
+  #contact h1{
+    padding-top:7vmax;
+    padding-bottom:1vmax;
+    font-family:'Alatsi', sans-serif;
+    font-size: 3vmax;
+  }
+  
+  #contact a{
+    font-size:3vmax;
+    color:black;
+  }
+  
+  #contact a:hover {
+    color:purple;
+  }
+  
+  footer{
+    font-size:1vmax;
+    padding-top:2vmax;
+    padding-bottom:2vmax;
+    width:100%;
+    padding-left:1.5vmax;
+  }
+  
+  #zelda{
+    padding-top: 7vmax;
+  }
+  
+  #zelda h1{
+    text-align: center;
+    font-family:'Alatsi', sans-serif;
+    font-size: 3vmax;
+  }
+  
+  #zeldadiv img{
+    height: 29vmax;
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top:.5vmax;
+  }
+  
